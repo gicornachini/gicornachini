@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![LinkedIn Badge](https://img.shields.io/badge/Giovanni%20Cornachini-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovannicornachini/)
 
+<!-- ![Giovanni's github stats](https://github-readme-stats.vercel.app/api?username=gicornachini&count_private=true&show_icons=true&theme=onedark&hide=stars)  -->
 <!--
 **gicornachini/gicornachini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
